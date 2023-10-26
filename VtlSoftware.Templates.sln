@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "working", "working", "{27823505-BE1E-482A-8D62-E1FAB4245AED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{E2A67F4E-582C-47C6-A02D-1AA1EB352921}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "console", "console", "{F59FF750-DAF8-466B-9F74-CA6D5A5AA8FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VtlLoggedConsole", "working\content\console\VtlLoggedConsole\VtlLoggedConsole.csproj", "{272EE8AB-2EBD-42E0-BE30-6B9293096A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272EE8AB-2EBD-42E0-BE30-6B9293096A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272EE8AB-2EBD-42E0-BE30-6B9293096A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272EE8AB-2EBD-42E0-BE30-6B9293096A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272EE8AB-2EBD-42E0-BE30-6B9293096A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2A67F4E-582C-47C6-A02D-1AA1EB352921} = {27823505-BE1E-482A-8D62-E1FAB4245AED}
+		{F59FF750-DAF8-466B-9F74-CA6D5A5AA8FA} = {E2A67F4E-582C-47C6-A02D-1AA1EB352921}
+		{272EE8AB-2EBD-42E0-BE30-6B9293096A03} = {F59FF750-DAF8-466B-9F74-CA6D5A5AA8FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24CEDD20-68B5-4C19-BE01-7F04FF85E393}
+	EndGlobalSection
+EndGlobal
