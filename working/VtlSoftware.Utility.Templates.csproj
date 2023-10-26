@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PackageId>VtlSoftware.Utility.Templates</PackageId>
     <!--<PackageVersion>0.1</PackageVersion>-->
-    <Version>0.0.7</Version>
+    <Version>0.0.14</Version>
     <Title>VtlSoftware Utility Templates</Title>
     <Authors>Dom Sinclair</Authors>
     <Description>A selection of project templates that incorporate VtlSoftware Logging Aspects.</Description>
@@ -20,7 +20,7 @@
     <NoWarn>$(NoWarn);NU5128</NoWarn>
     <NoDefaultExcludes>true</NoDefaultExcludes>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/domsinclair/VtlSoftware.Aspects.Logging</RepositoryUrl>
+    <RepositoryUrl>https://github.com/domsinclair/VtlSoftware.Templates</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 

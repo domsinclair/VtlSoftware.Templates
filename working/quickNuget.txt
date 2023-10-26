@@ -1,0 +1,12 @@
+dotnet add package VtlSoftware.Aspects.Logging --version 2023.3.8.1;
+dotnet add package Microsoft.Extensions.Hosting --version 7.0.1;
+dotnet add package NLog.Extensions.Logging --version 5.3.5;
+dotnet add package Serilog --version 3.0.1;
+dotnet add package Serilog.Enrichers.Environment --version 2.3.0;
+dotnet add package Serilog.Enrichers.Process --version 2.0.2;
+dotnet add package Serilog.Enrichers.Thread --version 3.1.0;
+dotnet add package Serilog.Extensions.Hosting --version 7.0.0;
+dotnet add package Serilog.Settings.Configuration --version 7.0.1;
+dotnet add package Serilog.Sinks.Console --version 4.1.0;
+dotnet add package Serilog.Sinks.File --version 5.0.0;
+dotnet add package Serilog.Sinks.Seq --version 5.2.3
