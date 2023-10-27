@@ -13,6 +13,7 @@
     <PackageType>Template</PackageType>
     <Copyright>© Vtl Software Ltd 2023</Copyright>
     <PackageIcon>icon.png</PackageIcon>
+    <PackageReleaseNotes>Initial release that utilises VtlSoftware Aspects Logging 2023.3.8.x.</PackageReleaseNotes>
     <TargetFramework>net8.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
