@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PackageId>VtlSoftware.Utility.Templates</PackageId>
     <!--<PackageVersion>0.1</PackageVersion>-->
-    <Version>0.0.14</Version>
+    <Version>1.0.0</Version>
     <Title>VtlSoftware Utility Templates</Title>
     <Authors>Dom Sinclair</Authors>
     <Description>A selection of project templates that incorporate VtlSoftware Logging Aspects.</Description>
@@ -13,7 +13,8 @@
     <PackageType>Template</PackageType>
     <Copyright>© Vtl Software Ltd 2023</Copyright>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageReleaseNotes>Initial release that utilises VtlSoftware Aspects Logging 2023.3.8.x.</PackageReleaseNotes>
+    <PackageReleaseNotes>Initial release that utilises VtlSoftware Aspects Logging 2023.3.8.x.
+    Currently provides templates for Console and Winforms applications.</PackageReleaseNotes>
     <TargetFramework>net8.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
